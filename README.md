@@ -2,7 +2,7 @@
 
 # Functions
 
-revForYear(y): 
+## revForYear(y): 
 
 Calculates total revenue given a year
 
